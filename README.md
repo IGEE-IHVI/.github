@@ -15,7 +15,7 @@ RMIT AURIN High Impact Project “Integrated Heat Vulnerability Assessment Toolk
 3. Enable modeling of the relationships between heat, environmental and social-economic factors. 
 
 
-# Need more information and appilication link ?
+# Need more information and access to iGEE and iHVI ?
 
 [iHVI app] (https://github.com/IGEE-IHVI/iHVI-app)
 
