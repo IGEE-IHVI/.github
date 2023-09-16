@@ -1,6 +1,15 @@
 # iGEE and iHVI 
 
-## Background
+# RMIT AURIN High Impact Project applications : 
+
+Click the below links to access to iGEE and iHVI repositories :
+
+[iHVI](https://github.com/IGEE-IHVI/iHVI-app)
+
+[iGEE](https://github.com/IGEE-IHVI/iGEE-app)
+
+
+## Project background
 Mapping and analysing land surface temperature and landcover changes helps us to understand the relationship between urbanisation and the urban heat island effect. There is an increasing demand in heat vulnerability assessment to identify areas that are vulnerable to heat waves, and takes into account the location of vulnerable members of the community, such as the elderly, very young and those with lower capacity to adapt to heat. Thus RMIT AURIN High Impact Project aimed to establish a first nationwide dynamic and interactive heat vulnerability assessment toolkit. The toolkits integrated multiple data sources, cloud computing, and Web GIS technologies to deliver cool intelligence for more heat resilient Australian cities and suburbs. 
 
 ## Project aim
@@ -15,16 +24,7 @@ RMIT AURIN High Impact Project “Integrated Heat Vulnerability Assessment Toolk
 3. Enable modeling of the relationships between heat, environmental and social-economic factors. 
 
 
-# RMIT AURIN High Impact Project applications : 
-
-Click the below links to access to iGEE and iHVI repositories :
-
-[iHVI](https://github.com/IGEE-IHVI/iHVI-app)
-
-[iGEE](https://github.com/IGEE-IHVI/iGEE-app)
-
-
-# AURIN - High Impact Project
+# More information on AURIN - High Impact Project
 [Blog](https://aurin.org.au/high-impact-project-update-the-integrated-heat-vulnerability-assessment-toolkit/)
 
 <img width="100%" alt="image" src="https://github.com/IGEE-IHVI/iGEE-iHVI-information/blob/main/AURIN%20High%20Impact%20project.jpg">
