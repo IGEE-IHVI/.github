@@ -37,7 +37,7 @@ Dr Chayn Sun - chayn.sun@rmit.edu.au
 
 Kaige Wang - kaigewang1@gmail.com
 
-Shinjita Das - shinjita00@ggmail.com 
+Shinjita Das - shinjita00@gmail.com 
 
 
 
