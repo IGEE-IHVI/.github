@@ -24,7 +24,7 @@ Click the below links to access to iGEE and iHVI repositories :
 [iGEE](https://github.com/IGEE-IHVI/iGEE-app)
 
 ## AURIN - High Impact Project
-[Blog]((https://aurin.org.au/high-impact-project-update-the-integrated-heat-vulnerability-assessment-toolkit/)
+[Blog](https://aurin.org.au/high-impact-project-update-the-integrated-heat-vulnerability-assessment-toolkit/)
 
 <img width="100%" alt="image" src="https://github.com/IGEE-IHVI/iGEE-iHVI-information/blob/main/AURIN%20High%20Impact%20project.jpg">
 
