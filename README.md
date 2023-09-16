@@ -1,4 +1,6 @@
+<p align="center">
 # iGEE and iHVI 
+</p>
 
 RMIT AURIN High Impact Project applications : 
 
