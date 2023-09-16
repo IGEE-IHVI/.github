@@ -19,4 +19,4 @@ RMIT AURIN High Impact Project “Integrated Heat Vulnerability Assessment Toolk
 
 iHVI: https://github.com/IGEE-IHVI/iHVI-app
 
-iGEE : https://github.com/IGEE-IHVI/iGEE-app
+iGEE : https://github.com/IGEE-IHVI/iGEE-app 
