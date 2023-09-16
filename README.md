@@ -32,7 +32,9 @@ Click the below links to access to iGEE and iHVI repositories :
 # Contacts 
 
 Dr Chayn Sun - chayn.sun@rmit.edu.au
+
 Kaige Wang - kaigewang1@gmail.com
+
 Shinjita Das - shinjita00@ggmail.com 
 
 
