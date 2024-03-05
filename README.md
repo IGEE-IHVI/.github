@@ -35,9 +35,11 @@ RMIT AURIN High Impact Project “Integrated Heat Vulnerability Assessment Toolk
 
 Dr Chayn Sun - chayn.sun@rmit.edu.au
 
+Shinjita Das - shinjita00@gmail.com 
+
 Kaige Wang - kaigewang1@gmail.com
 
-Shinjita Das - shinjita00@gmail.com 
+
 
 
 
